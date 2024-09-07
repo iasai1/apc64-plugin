@@ -5,8 +5,8 @@ At this moment, functionality includes:
 - Adding Instruments to new channels
 
 For this plugin to be working properly, place `mapping.txt` file under the following directory:
-- Mac: `/Users/*your_username*/Ableton/Resources/mappings.txt"
-- Windows: `C:\\Users\\*your_username*\\Ableton\\Resources\\mappings.txt"
+- Mac: `/Users/*your_username*/Ableton/Resources/mapping.txt`
+- Windows: `C:\\Users\\*your_username*\\Ableton\\Resources\\mapping.txt`
 
 
 # How to work with mapping.txt
